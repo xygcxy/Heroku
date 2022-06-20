@@ -1,10 +1,11 @@
-【金山文档】 申请Freenom域名的正确做法 https://kdocs.cn/l/cmqB5kYnODzN
+ 申请Freenom域名的正确做法  https://1drv.ms/w/s!Akco49yyqyqDtFXjm4iy26Mvv-ES?e=cCC6Wl
 
-【金山文档】 CloudFlare Workers 被墙解决方案 https://kdocs.cn/l/cp7ppdbff6Yw
+ CloudFlare Workers 被墙解决方案  https://1drv.ms/w/s!Akco49yyqyqDtFK69rvLkNevKxyY?e=HegeOL
 
-【金山文档】 Heroku搭建教程 https://kdocs.cn/l/cuGOXoYA2DwO
+ Heroku搭建教程  https://1drv.ms/w/s!Akco49yyqyqDtFOlWqW7k2FHnBnG?e=Q4sZl2
 
-讨论群组 https://t.me/herokuvless
+
+ 讨论群组  https://t.me/herokuvless
 
 ## v2ray-heroku
 
